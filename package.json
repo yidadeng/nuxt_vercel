@@ -1,0 +1,13 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "apexcharts": "^3.22.2",
+        "nuxt": "^2.14.7"
+    }
+}
